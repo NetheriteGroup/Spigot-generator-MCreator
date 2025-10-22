@@ -1,9 +1,11 @@
 {
   "id": "generator-spigot-1.20.1",
-  "minversion": 202300333711,
+  "supportedversions": [
+    202500342611
+  ],
   "info": {
-    "name": "Minecraft Spigot 1.20.1 Generator",
-    "version": "1.0",
+    "name": "Minecraft Spigot ${version} Generator",
+    "version": "${pluginVersion}",
     "description": "A Spigot Generator",
     "author": "Goldorion",
     "credits": "Thank you to all contributors and supporters on Ko-fi",
