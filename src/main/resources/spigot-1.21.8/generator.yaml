@@ -17,6 +17,13 @@ gradle:
 source_root: "@WORKSPACEROOT/src/main/java"
 res_root: "@WORKSPACEROOT/src/main/resources"
 
+import_formatter:
+  duplicates_whitelist:
+    - java.util
+    - net.minecraft
+    - org.bukkit
+    - org.spigotmc
+
 base_templates:
 - template: modbase/mod.java.ftl
   name: "@SRCROOT/@BASEPACKAGEPATH/@JavaModName.java"
