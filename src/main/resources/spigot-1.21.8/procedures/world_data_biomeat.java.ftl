@@ -1,1 +1,1 @@
-((world.getBiome((int)${input$x},(int)${input$y},(int)${input$z})) == ${generator.map(field$biome, "biomes")})
+((world.getBiome((int)${input$x},(int)${input$y},(int)${input$z})) == Biome.valueOf("${generator.map(field$biome, "biomes")}"))
