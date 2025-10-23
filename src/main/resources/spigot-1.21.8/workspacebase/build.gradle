@@ -85,3 +85,5 @@ tasks.register('runSpigotServer', Exec) {
 	workingDir = file("run")
 	commandLine = ["java", "-jar", spigotJar] as List<String>
 }
+
+apply from: 'mcreator.gradle'

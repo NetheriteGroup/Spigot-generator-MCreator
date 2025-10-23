@@ -3,6 +3,7 @@
 ## 1.1
 * Updated to MCreator 2025.3 3rd snapshot
 * Updated to Minecraft 1.21.8
+* mcreator.gradle file can now be used
 * [Bugfix] Fixed some mappings related problems
 * [Bugfix] Some other fixes and improvements
 
