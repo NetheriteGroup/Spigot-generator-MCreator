@@ -9,7 +9,7 @@
     "description": "A Spigot Generator",
     "author": "Goldorion",
     "credits": "Thank you to all contributors and supporters on Ko-fi",
-    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Spigot-Generator-MCreator/1.21.8/update.json",
+    "updateJSONURL": "https://raw.githubusercontent.com/Goldorion/Spigot-Generator-MCreator/${version}/update.json",
     "pluginPageID": 64516
   }
 }
