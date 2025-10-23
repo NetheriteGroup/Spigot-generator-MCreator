@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1
+* Updated to MCreator 2025.3 3rd snapshot
+* Updated to Minecraft 1.21.8
+* [Bugfix] Fixed some mappings related problems
+* [Bugfix] Some other fixes and improvements
+
 ## 1.0
 * Updated to Minecraft 1.20.1 (mappings included)
 * Ported the command mod element to the new system

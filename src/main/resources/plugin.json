@@ -1,5 +1,5 @@
 {
-  "id": "generator-spigot-1.20.1",
+  "id": "generator-spigot-${version}",
   "supportedversions": [
     202500342611
   ],
