@@ -13,7 +13,7 @@ This project is not official. It is not affiliated with the respective owners an
 * Procedures (Partial support)
 
 ## Information
-- Make sure you use MCreator 2025.3 3rd snapshot
+- Make sure you use MCreator 2025.3
 - Back up your workspace before updating to a newer version of the plugin.
 - Plugins also require [Spigot](https://getbukkit.org/download/spigot) to function properly.
 - 

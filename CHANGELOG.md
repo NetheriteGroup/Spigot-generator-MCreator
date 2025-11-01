@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.1
+* Full 2025.3 support
+
 ## 1.1
 * Updated to MCreator 2025.3 3rd snapshot
 * Updated to Minecraft 1.21.8
