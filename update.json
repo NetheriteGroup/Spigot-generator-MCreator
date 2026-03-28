@@ -1,8 +1,8 @@
 {
   "generator-spigot-1.21.8": {
-    "latest": "1.1.1",
+    "latest": "1.1.2",
     "changes": [
-      "Full 2025.3 release support"
+      "Updated to MCreator 2026.1 (2026.1.13616)"
     ]
   }
 }

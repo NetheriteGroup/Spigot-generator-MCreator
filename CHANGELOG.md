@@ -1,5 +1,8 @@
 # Changelog
 
+# 1.1.2
+- Updated to MCreator 2026.1 (2026.1.13616)
+
 ## 1.1.1
 * Full 2025.3 support
 
